@@ -1,0 +1,11 @@
+entity\Movietheater.class
+CDI\MovieCDI.class
+entity\Theatermaster.class
+Client\MyClient.class
+com\mycompany\assignment2\resources\JakartaEE8Resource.class
+CDI\MovieCDI$1.class
+EJB\MoviebeanLocal.class
+com\mycompany\assignment2\JakartaRestConfiguration.class
+CDI\MovieCDI$2.class
+EJB\Moviebean.class
+entity\Moviemaster.class
